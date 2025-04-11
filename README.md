@@ -52,7 +52,7 @@
 - [Jest](https://jestjs.io) with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) for the unit tests
 - [Cypress](https://www.cypress.io) with [Testing Library](https://testing-library.com/docs/cypress-testing-library) for the end-to-end tests
 - [GitHub Action Workflows](https://github.com/features/actions) set up to run tests and linting on push
-- [Makefile] for standardize how to run projects (https://github.com/EmerBV/vite-template/blob/main/Makefile)
+- [Makefile](https://github.com/EmerBV/vite-template/blob/main/Makefile) for standardize how to run projects
 - [Sass](https://sass-lang.com) to supercharge CSS with nested classes and more fun
 - [.editorconfig](https://editorconfig.org) for sharing the IDE config
 
